@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RishitAgrawal06
-- 👀 I’m interested in programming and a computer science pathway
-- 🌱 I’m currently learning html and expanding my knowledge in java and python
+- 👀 I’m interested in programming and am in a computer science pathway
+- 🌱 I’m currently learning html and expanding my knowledge in java, python, and c++
 - 📫 How to reach me on email: torishitagrawal@gmail.com
 
 <!---
