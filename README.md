@@ -9,12 +9,10 @@ My name is Rishit Agrawal and I am a current 10th Grader at Evergreen Valley Hig
 - 🧑‍💻 I am interested in competition programming and solving quick problems.
 - 📫 How to reach me on email: torishitagrawal@gmail.com
 
-<!---
 # Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RishitAgrawal06&show_icons=true&locale=en&layout=compact" alt="RishitAgrawal06" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RishitAgrawal06&show_icons=true&locale=en&layout=compact" alt="RishitAgrawal06" /></p> >
---->  
 
 <!---
 RishitAgrawal06/RishitAgrawal06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
