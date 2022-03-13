@@ -5,9 +5,10 @@ My name is Rishit Agrawal and I am a current 10th Grader at Evergreen Valley Hig
 - 👋 Hi, I’m [@RishitAgrawal06](https://github.com/RishitAgrawal06)
 - 👀 I’m interested in programming and am in a computer science pathway
 - 🌱 I’m currently learning html/c++ and expanding my knowledge in java and python
-- 🤖 I am currently a programming lead on my school's FTC team working in Java.
+- 🤖 I am currently a programming lead on my school's FTC team working priamrily in Java.
    - FTC Artemis #18715 ([@artemis18715](https://github.com/artemis18715))
 - 🧑‍💻 I am interested in competition programming and solving quick problems.
+- 🏃‍♂️ I am part of my school's track and field team #athlete
 - 📫 How to reach me on email: torishitagrawal@gmail.com
 
 ## Languages
@@ -22,10 +23,18 @@ My name is Rishit Agrawal and I am a current 10th Grader at Evergreen Valley Hig
 <g>
    
 ## Stats
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RishitAgrawal06&langs_count=10&theme=aura&showicons=true&border_radius=8)]()
+   
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RishitAgrawal06&show_icons=true&&show_icons=true&locale=en&include_all_commits=true&layout=compact&theme=tokyonight" alt="RishitAgrawal06" /></p>   
+
+<!---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RishitAgrawal06&show_icons=true&locale=en&layout=compact" alt="RishitAgrawal06" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RishitAgrawal06&show_icons=true&locale=en&layout=compact" alt="RishitAgrawal06" /></p>
-
+--->
+   
 <!---
 RishitAgrawal06/RishitAgrawal06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
