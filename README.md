@@ -27,7 +27,7 @@ My name is Rishit Agrawal and I am a current 10th Grader at Evergreen Valley Hig
    
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RishitAgrawal06&count_private=true&langs_count=5&include_all_commits=true&theme=nightowl&showicons=true&border_radius=8)]()
    
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RishitAgrawal06&count_private=true&show_icons=true&&show_icons=true&locale=en&include_all_commits=false&layout=compact&theme=nightowl" alt="RishitAgrawal06" /></p>   
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RishitAgrawal06&count_private=true&show_icons=true&&show_icons=true&locale=en&include_all_commits=true&layout=compact&theme=nightowl" alt="RishitAgrawal06" /></p>   
 
 <!---
 
