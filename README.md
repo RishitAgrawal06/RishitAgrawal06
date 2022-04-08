@@ -9,6 +9,7 @@ My name is Rishit Agrawal and I am a current 10th Grader at Evergreen Valley Hig
    - FTC Artemis #18715 ([@artemis18715](https://github.com/artemis18715))
    - Also a part of my school's FRC robotics team, The Prototypes #2854 ([@EVHSRobotics](https://github.com/EVHSRobotics))
 - 🧑‍💻 I am interested in competition programming and solving quick problems.
+- 📶 I have recently began to indulge myself in creating web applications working both frontend and backend
 - 🏃‍♂️ I am part of my school's track and field team #athlete
 - 📫 How to reach me on email: torishitagrawal@gmail.com
 
