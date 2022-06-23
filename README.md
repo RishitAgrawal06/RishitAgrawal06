@@ -27,6 +27,7 @@ My name is Rishit Agrawal and I am a current 10th Grader at Evergreen Valley Hig
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" margin-right="20" width="60" height="60"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" margin-right="20" height="60"/> </a>
 <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" margin-right="20" width="60" height="60"/> </a>
+<a href="https://en.cppreference.com/w/c/language" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" margin-right="20" width="60" height="60"/> </a>
 <g>
    
 ## Libraries and Frameworks
