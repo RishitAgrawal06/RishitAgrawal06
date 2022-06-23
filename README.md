@@ -3,12 +3,12 @@
 ![image](https://user-images.githubusercontent.com/71906601/162385216-db575c46-8988-47a5-a350-227bf8bace29.png)
 
 
-My name is Rishit Agrawal and I am a current 10th Grader at Evergreen Valley High School. I am a computer enthusiast and enjoy to learn and program in multiple languages such as Java, Python, HTML, CSS, Javascript, and C++. 
+My name is Rishit Agrawal and I am a current 10th Grader at Evergreen Valley High School. I am a computer enthusiast and enjoy to learn and program in multiple languages such as Java, Python, HTML, CSS, Javascript, C, and C++. 
 
 ## More On Who I Am
 - 👋 Hi, I’m [@RishitAgrawal06](https://github.com/RishitAgrawal06)
 - 👀 I’m interested in programming and am in a computer science pathway
-- 🌱 I’m currently learning html/c++ and expanding my knowledge in java and python
+- 🌱 I’m currently learning C/C++ and expanding my knowledge in java and python
 - 🤖 I am currently a programming lead on my school's FTC team working primarily in Java.
    - FTC Artemis #18715 ([@artemis18715](https://github.com/artemis18715))
    - Also a part of my school's FRC robotics team, The Prototypes #2854 ([@EVHSRobotics](https://github.com/EVHSRobotics))
