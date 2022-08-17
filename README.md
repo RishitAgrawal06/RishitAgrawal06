@@ -12,12 +12,11 @@ My name is Rishit Agrawal and I am a current 10th Grader at Evergreen Valley Hig
 ## More On Who I Am
 - 👋 Hi, I’m [@RishitAgrawal06](https://github.com/RishitAgrawal06)
 - 👀 I’m interested in programming and am in a computer science pathway
-- 🌱 I’m currently learning C/C++ and expanding my knowledge in java and python
+- 🌱 I’m currently expanding my knowledge in programming
 - 🤖 I am currently a programming lead on my school's FTC team working primarily in Java.
-   - FTC Artemis #18715 ([@artemis18715](https://github.com/artemis18715))
-   - Also a part of my school's FRC robotics team, The Prototypes #2854 ([@EVHSRobotics](https://github.com/EVHSRobotics))
+   - Also a part of my school's FRC robotics team
 - 🧑‍💻 I am interested in competition programming and solving quick problems.
-- 📶 I have recently began to indulge myself in creating web applications working both frontend and backend
+- 📶 I have recently began to indulge myself in creating web and mobile applications working both frontend and backend
 - 🏃‍♂️ I am part of my school's track and field team #athlete
 - 📫 How to reach me on email: torishitagrawal@gmail.com
 
