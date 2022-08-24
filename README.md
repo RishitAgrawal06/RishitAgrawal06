@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/71906601/162385216-db575c46-8988-47a5-a350-227bf8bace29.png)
 
 
-My name is Rishit Agrawal and I am a current 10th Grader at Evergreen Valley High School. I am a computer enthusiast and enjoy to learn and program in multiple languages such as Java, Python, HTML, CSS, Javascript, C, and C++. 
+My name is Rishit Agrawal and I am a current 11th Grader at Evergreen Valley High School. I am a computer enthusiast and enjoy to learn and program in multiple languages such as Java, Python, HTML, CSS, Javascript, C, and C++. 
 
 ![](https://komarev.com/ghpvc/?username=RishitAgrawal06&color=002E63)
 
