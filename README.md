@@ -46,13 +46,14 @@ My name is Rishit Agrawal and I am a current 11th Grader at Evergreen Valley Hig
 <a href="https://numpy.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="numpy" margin-right="20" width="60" height="60"/> </a>
 <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="numpy" margin-right="20" width="60" height="60"/> </a>
 <g>
-   
+
+<!---
 ## Stats
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RishitAgrawal06&count_private=true&langs_count=5&include_all_commits=true&theme=nightowl&showicons=true&border_radius=8)]()
    
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RishitAgrawal06&count_private=true&show_icons=true&&show_icons=true&locale=en&include_all_commits=false&layout=compact&theme=nightowl" alt="RishitAgrawal06" /></p>   
 
-<!---
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RishitAgrawal06&show_icons=true&locale=en&layout=compact" alt="RishitAgrawal06" /></p>
 
