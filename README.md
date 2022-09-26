@@ -17,7 +17,6 @@ My name is Rishit Agrawal and I am a current 11th Grader at Evergreen Valley Hig
    - Also a part of my school's FRC robotics team
 - 🧑‍💻 I am interested in competition programming and solving quick problems.
 - 📶 I have recently began to indulge myself in creating web and mobile applications working both frontend and backend
-- 🏃‍♂️ I am part of my school's track and field team #athlete
 - 📫 How to reach me on email: torishitagrawal@gmail.com
 
 ## Languages
