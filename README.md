@@ -3,7 +3,7 @@
 
 
 ```py
-class rishitagrawal{
+class rishitagrawal:
     def __init__(self):
         self.variables = {
             'name': 'rishit',
@@ -50,7 +50,7 @@ if __name__ == '__main__':
     rishit = rishitagrawal()
     rishit.description()
     rishit.social_media()
-}
+
 ```
 ![image](https://user-images.githubusercontent.com/71906601/162385216-db575c46-8988-47a5-a350-227bf8bace29.png)
 
