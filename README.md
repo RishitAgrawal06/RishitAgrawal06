@@ -3,11 +3,11 @@
 
 
 ```py
-class rishitagrawal:
+class RishitAgrawal:
     def __init__(self):
         self.variables = {
             'name': 'rishit',
-            'age': 16,
+            'age': 17,
             'school': 'evergreen valley high school',
             'hobbies': 'coding, robotics, martial arts',
             'languages': 'english, hindi, spanish, marwari'
