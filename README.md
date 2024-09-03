@@ -7,8 +7,9 @@ class RishitAgrawal:
     def __init__(self):
         self.variables = {
             'name': 'rishit',
-            'age': 17,
-            'school': 'evergreen valley high school',
+            'age': 18,
+            'school': 'purdue university',
+            'major': 'computer science',
             'hobbies': 'coding, robotics, martial arts',
             'languages': 'english, hindi, spanish, marwari'
         }
@@ -29,8 +30,10 @@ class RishitAgrawal:
             elif index == 2:
                 print(f'school: {value}')
             elif index == 3:
-                print(f'hobbies: {value}')
+                print(f'major: {value}')
             elif index == 4:
+                print(f'hobbies: {value}')
+            elif index == 5:
                 print(f'languages: {value}')
 
     def social_media(self):
@@ -54,7 +57,7 @@ if __name__ == '__main__':
 ```
 ![image](https://user-images.githubusercontent.com/71906601/162385216-db575c46-8988-47a5-a350-227bf8bace29.png)
 
-My name is Rishit Agrawal and I am a current 11th Grader at Evergreen Valley High School. Being a computer enthusiast, I enjoy to learn and program in multiple languages such as C, C++. CSS, HTML, Java, Javascript, and Python.
+My name is Rishit Agrawal and I am currently studying Computer Science @ Purdue University. Being a computer enthusiast, I enjoy to learn and program in multiple languages such as C, C++. CSS, HTML, Java, Javascript, and Python.
 
 ![](https://komarev.com/ghpvc/?username=RishitAgrawal06&color=002E63)
 
@@ -62,7 +65,7 @@ My name is Rishit Agrawal and I am a current 11th Grader at Evergreen Valley Hig
 - 👋 Hi, I’m [@RishitAgrawal06](https://github.com/RishitAgrawal06)
 - 👀 I’m interested in programming and am in a computer science pathway
 - 🌱 I’m currently expanding my knowledge in programming
-- 🤖 Currently programming lead on my school's FTC team working primarily in Java.
+- 🤖 Previously programming lead on my school's FTC team working primarily in Java.
    - Also a part of my school's FRC robotics team
 - 🧑‍💻 I am interested in competition programming and solving quick problems.
 - 📶 I have recently began to indulge myself in creating web and mobile applications working both frontend and backend
