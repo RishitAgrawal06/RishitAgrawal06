@@ -59,9 +59,10 @@ if __name__ == '__main__':
 ## More On Who I Am
 - 👋 Hi, I’m [@RishitAgrawal06](https://github.com/RishitAgrawal06)
 - 👀 I’m interested in full-stack programming and am pursuing a degree in Computer Science @ Purdue University!
+- 🪟 Currently working alongside a team from **Microsoft (Mojang Studios)** on a creator assistive development platform.
 - 🤖 Previously interned as a Software Development Intern at **Amazon AWS (Amazon Web Services)** working on Amazon Quick Suite.
 - 📏 I have also interned as a GenAI Technical Advisor for Software at **Scale AI** throughout the Spring 2025 semester.
-- 🧑‍💻 I am interested in AI/ML + computer vision research, spending time to create applications/products, and solving issues.
+- 🧑‍💻 I am interested in AI/ML + computer vision research ([Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=MtpB8wUAAAAJ)), spending time to create applications/products, and solving issues.
 - 📫 How to reach me on email: torishitagrawal@gmail.com
 
 <!---
