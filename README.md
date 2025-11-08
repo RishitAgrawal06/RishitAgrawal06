@@ -55,10 +55,7 @@ if __name__ == '__main__':
     rishit.social_media()
 
 ```
-My name is Rishit Agrawal and I am currently studying Computer Science @ Purdue University. Being a computer enthusiast, I enjoy to learn and program in multiple languages such as C, C++, CSS, HTML, Java, Javascript, and Python.
-
 ![](https://komarev.com/ghpvc/?username=RishitAgrawal06&color=002E63)
-
 ## More On Who I Am
 - 👋 Hi, I’m [@RishitAgrawal06](https://github.com/RishitAgrawal06)
 - 👀 I’m interested in full-stack programming and am pursuing a degree in Computer Science @ Purdue University!
